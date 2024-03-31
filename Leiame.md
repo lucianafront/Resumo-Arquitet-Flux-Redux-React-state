@@ -1,0 +1,1 @@
+# Abrir o arquivo Arquitet-flux-Redux-React state.drawio no https://app.diagrams.net/
